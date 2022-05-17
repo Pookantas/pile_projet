@@ -63,3 +63,4 @@ Comme son nom l'indique, ce dépôt contient un squelette de projet utilisé dan
   - Retourne false sur une pile non-pleine# pile_squelette_projet
 # pile_squelette_projet
 # pile_projet
+# pile_projet
