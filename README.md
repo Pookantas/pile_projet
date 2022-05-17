@@ -64,3 +64,4 @@ Comme son nom l'indique, ce dépôt contient un squelette de projet utilisé dan
 # pile_squelette_projet
 # pile_projet
 # pile_projet
+# pile_projet
